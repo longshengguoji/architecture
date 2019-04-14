@@ -33,6 +33,7 @@ redis之scan<br/>
 # 类似知识库
 <a href="https://github.com/davideuler/architecture.of.internet-product">互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构</a><br/>
 <a href="https://github.com/CyC2018/CS-Notes">技术面试需要掌握基础知识整理</a><br/>
+<a href="https://github.com/caison/java-knowledge-mind-map/blob/master/README.md">Java服务端知识技能图谱</a><br/>
 <a href="https://github.com/xingshaocheng/architect-awesome">后端架构师技术图谱</a><br/>
 <a href="https://github.com/qiurunze123/miaosha">秒杀系统设计与实现</a><br/>
 <a href="https://github.com/kdn251/interviews/blob/master/README-zh-cn.md">软件工程技术面试指南</a><br/>
