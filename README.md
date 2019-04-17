@@ -28,6 +28,8 @@ redis之scan<br/>
 分布式ID生成器
 分布式一致性算法
 
+# 微服务
+<a href="https://github.com/micro-in-cn/tutorials/tree/master/microservice-in-micro">go微服务教程</a><br/>
 # 设计思想
 # 项目管理
 # 类似知识库
