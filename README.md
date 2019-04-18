@@ -7,6 +7,7 @@
 # 数据库
 ## redis
 <a href="https://github.com/longshengguoji/architecture/blob/master/redis%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md">redis之分布式锁</a><br/>
+<a href="https://github.com/longshengguoji/architecture/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/redis%E4%B9%8B%E8%BF%87%E6%9C%9F%E7%AD%96%E7%95%A5.md">redis之过期策略</a><br/>
 redis之延时队列<br/>
 redis之简单限流<br/>
 redis之漏斗限流<br/>
